@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,9 +68,11 @@
 <body>
     <canvas id="matrix"></canvas>
     <div class="center-content">
-        <button class="circle-button" onclick="this.classList.add('clicked');">
-            <span class="dog-emoji">🐶</span>
-        </button>
+        <a href="https://x.com/thesock_eth" target="_blank">
+            <button class="circle-button" onclick="this.classList.add('clicked');">
+                <span class="dog-emoji">🐶</span>
+            </button>
+        </a>
     </div>
 
     <script>
